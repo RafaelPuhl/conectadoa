@@ -78,3 +78,15 @@ A resposta apresenta o status do serviço, o nome da aplicação e a data e hora
 Este projeto faz parte da disciplina Projeto Integrador Extensionista II.
 
 A aplicação será desenvolvida gradualmente, começando pela estrutura inicial e pela comunicação entre o frontend e o backend.
+
+## Como executar o projeto
+
+Para iniciar a aplicação, abra o terminal na pasta do projeto e execute:
+
+vp dev
+
+A interface web ficará disponível em http://localhost:5173.
+
+A API utiliza a porta 3000 e pode ser testada pelo endereço:
+
+http://localhost:3000/api/health
